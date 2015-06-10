@@ -1,0 +1,30 @@
+{
+  "name": "react-tutorial",
+  "version": "1.0.0",
+  "description": "`React.js` basic tutorial implemented in `es6` with `jasmine` tests",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "babel-core": "^5.5.6",
+    "babel-loader": "^5.1.4",
+    "node-libs-browser": "^0.5.2",
+    "react": "^0.13.3",
+    "webpack": "^1.9.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JiLiZART/react-tutorial.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JiLiZART/react-tutorial/issues"
+  },
+  "homepage": "https://github.com/JiLiZART/react-tutorial"
+}
